@@ -147,7 +147,7 @@ export function AboutCards({}: Props) {
           <h2 className="font-orbitron font-black leading-[70px] text-left text-white text-[56px] max-[765px]:leading-[35px]  max-[765px]:text-[24px] max-[765px]:text-center">
             The Innovation
           </h2>
-          <p className="font-poppins text-[16px] min-[765px]:text-[20px] min-[765px]:leading-[24px] font-medium leading-[33px] text-left text-white/90 max-[765px]:text-center">
+          <p className="font-poppins text-[16px] min-[765px]:text-[20px] min-[765px]:leading-[35px] font-medium leading-[24px] text-left text-white/90 max-[765px]:text-center">
             Built on TON blockchain and seamlessly integrated with Telegram,
             Legacy of Games represents the convergence of competitive gaming,
             technological innovation, and environmental responsibility.

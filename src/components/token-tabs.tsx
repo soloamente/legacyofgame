@@ -121,20 +121,12 @@ export const TokenTabs = ({ imagePaths }: { imagePaths: string[] }) => {
             <ul className="text-gray-300 space-y-6">
               <li className="space-y-2">
                 <div className="text-lg font-medium">Total Supply:</div>
-                <div>XXXXXXXXX</div>
-              </li>
-              <li className="space-y-2">
-                <div className="text-lg font-medium">Circulating Supply:</div>
-                <div>XXXXXXXXX</div>
+                <div>880000000</div>
               </li>
               <li className="space-y-2">
                 <div className="text-lg font-medium">
-                  Environmental Fund Allocation:
+                  Private sale coming soon:
                 </div>
-                <div>XXXXXXXXX</div>
-              </li>
-              <li className="space-y-2">
-                <div className="text-lg font-medium">Player Rewards Pool:</div>
                 <div>XXXXXXXXX</div>
               </li>
             </ul>
